@@ -5,7 +5,7 @@ using namespace std;
 i need to write recursive functions for a doubly linked list. this list has nodes
 that point both forward and backward. i must be able to put a new number at
 any spot, take a number out from any spot, and check if the list reads the
-same way from the start and the end. [cite: 1, 63, 67]
+same way from the start and the end. 
 
 2. how i will do it:
 - to insert: i will move through the nodes one by one. when the position
